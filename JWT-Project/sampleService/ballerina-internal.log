@@ -1,0 +1,44 @@
+[2020-01-17 14:53:59,720] SEVERE {b7a.log.crash} - null 
+java.lang.NullPointerException
+	at kawee.sampleModule.___init.kawee_sampleModule_0_1_0__stop_(sampleModule:28)
+	at kawee.sampleModule.___init.$lambda$kawee_sampleModule_0_1_0__stop_(sampleModule)
+	at org.ballerinalang.jvm.scheduling.SchedulerItem.execute(Scheduler.java:426)
+	at org.ballerinalang.jvm.scheduling.Scheduler.run(Scheduler.java:218)
+	at org.ballerinalang.jvm.scheduling.Scheduler.runSafely(Scheduler.java:191)
+	at org.ballerinalang.jvm.scheduling.Scheduler.start(Scheduler.java:178)
+	at kawee.sampleModule.___init.$moduleStop(sampleModule)
+	at kawee.sampleModule.___init$SignalListener.run(Unknown Source)
+ 
+[2020-01-17 14:53:59,723] SEVERE {b7a.log.crash} - null 
+java.lang.NullPointerException
+	at kawee.sampleModule.___init.kawee_sampleModule_0_1_0__stop_(sampleModule:28)
+	at kawee.sampleModule.___init.$lambda$kawee_sampleModule_0_1_0__stop_(sampleModule)
+	at org.ballerinalang.jvm.scheduling.SchedulerItem.execute(Scheduler.java:426)
+	at org.ballerinalang.jvm.scheduling.Scheduler.run(Scheduler.java:218)
+	at org.ballerinalang.jvm.scheduling.Scheduler.runSafely(Scheduler.java:191)
+	at org.ballerinalang.jvm.scheduling.Scheduler.start(Scheduler.java:178)
+	at kawee.sampleModule.___init.$moduleStop(sampleModule)
+	at kawee.sampleModule.___init$SignalListener.run(Unknown Source)
+ 
+[2020-01-17 14:54:38,912] SEVERE {b7a.log.crash} - null 
+java.lang.NullPointerException
+	at kawee.sampleModule.___init.kawee_sampleModule_0_1_0__stop_(sampleModule:28)
+	at kawee.sampleModule.___init.$lambda$kawee_sampleModule_0_1_0__stop_(sampleModule)
+	at org.ballerinalang.jvm.scheduling.SchedulerItem.execute(Scheduler.java:426)
+	at org.ballerinalang.jvm.scheduling.Scheduler.run(Scheduler.java:218)
+	at org.ballerinalang.jvm.scheduling.Scheduler.runSafely(Scheduler.java:191)
+	at org.ballerinalang.jvm.scheduling.Scheduler.start(Scheduler.java:178)
+	at kawee.sampleModule.___init.$moduleStop(sampleModule)
+	at kawee.sampleModule.___init$SignalListener.run(Unknown Source)
+ 
+[2020-01-17 14:54:38,916] SEVERE {b7a.log.crash} - null 
+java.lang.NullPointerException
+	at kawee.sampleModule.___init.kawee_sampleModule_0_1_0__stop_(sampleModule:28)
+	at kawee.sampleModule.___init.$lambda$kawee_sampleModule_0_1_0__stop_(sampleModule)
+	at org.ballerinalang.jvm.scheduling.SchedulerItem.execute(Scheduler.java:426)
+	at org.ballerinalang.jvm.scheduling.Scheduler.run(Scheduler.java:218)
+	at org.ballerinalang.jvm.scheduling.Scheduler.runSafely(Scheduler.java:191)
+	at org.ballerinalang.jvm.scheduling.Scheduler.start(Scheduler.java:178)
+	at kawee.sampleModule.___init.$moduleStop(sampleModule)
+	at kawee.sampleModule.___init$SignalListener.run(Unknown Source)
+ 
