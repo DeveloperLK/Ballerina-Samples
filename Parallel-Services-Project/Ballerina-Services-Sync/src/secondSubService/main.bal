@@ -14,7 +14,7 @@ service {
     resource function sayHelloSubService_Two(http:Caller caller, http:Request req) {
 
         // resource function execution
-        var result = caller->respond("Hello World secondSubService!");
+        var result = caller->respond("Hello From secondSubService!");
         if (result is error) {
             log:printError("Error sending response", result);
         }

@@ -14,7 +14,7 @@ service {
     resource function sayHelloSubService_One(http:Caller caller, http:Request req) {
 
         // resource function execution
-        var result = caller->respond("Hello World firstSubService!");
+        var result = caller->respond("Hello From firstSubService!");
         if (result is error) {
             log:printError("Error sending response", result);
         }
@@ -22,7 +22,6 @@ service {
    }
 
 };
-
 
 // public listener http:Listener endpoint = new(8080);
 
